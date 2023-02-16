@@ -8,7 +8,7 @@ Built a News App Platform using react, News API with responsive designs and clea
 
 ## Installation
 
-Clone this repo
+First Fork this repo & then Clone this repo
 
 ```bash
   git clone https://github.com/<YOUR_USERNAME>/newsShot-react-news-app.git
